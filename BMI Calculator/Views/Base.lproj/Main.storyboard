@@ -209,6 +209,7 @@
                     </view>
                     <connections>
                         <outlet property="adviceLabel" destination="9IV-CT-mxw" id="dwT-nO-7bk"/>
+                        <outlet property="background" destination="r83-N3-Ash" id="X4m-Iw-d7x"/>
                         <outlet property="resultLabel" destination="VU9-2W-Sd5" id="TDK-B6-dtc"/>
                     </connections>
                 </viewController>
